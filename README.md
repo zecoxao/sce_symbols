@@ -7,7 +7,7 @@ get symbols list:
 
 nm name of elf > list.txt
 
-cut first n characters of list (useful for trimming the addresses):
+cut first N characters of list (useful for trimming the addresses):
 
 cut -cN- list.txt
 
