@@ -14,3 +14,9 @@ cut -cN- list.txt
 sort automatically and only include unique words:
 
 sort -u list.txt > final_list.txt
+
+# CREDITS
+
+* flatz, SocraticBliss, Proxima, Jevinskie
+
+for the shortcuts
