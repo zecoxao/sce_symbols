@@ -12945,10 +12945,14 @@
         <Entry id="0x0FE45BD8"  name="sceNpDrmExecDeactivation" />
         <Entry id="0x4E12A15C"  name="sceNpDrmExecPspActivation" />
         <Entry id="0xFDA460B4"  name="sceNpDrmExecPspDeactivation" />
+        <Entry id="0x6D9C1D5E"  name="sceNpDrmGetContentId" />
+        <Entry id="0xB835A29C"  name="sceNpDrmGetDrmTypeVsh" />
         <Entry id="0x5EE81C09"  name="sceNpDrmGetOwnerInfoVsh" />
         <Entry id="0x8A3EFDDA"  name="sceNpDrmGetRifPath" />
         <Entry id="0x920DFD1A"  name="sceNpDrmGetTimelimitVsh" />
+        <Entry id="0x9DDB30CE"  name="sceNpDrmIsDiscBindVsh" />
         <Entry id="0x28E60495"  name="sceNpDrmIsoBinEdatHdrCheck" />
+        <Entry id="0x8CD3490B"  name="sceNpDrmRequestKeyReg" />
         <Entry id="0x2FF0B98F"  name="sceNpGetAboutMe" />
         <Entry id="0x67504671"  name="sceNpGetEntitlementById"  ctype="int sceNpGetEntitlementById(const char *entId, SceNpEntitlement *ent)" />
         <Entry id="0xFACC5962"  name="sceNpGetMyLanguages"  ctype="int sceNpGetMyLanguages(int (0), uint8_t myLang[0x10])" />
@@ -13243,7 +13247,6 @@
         <Entry id="0x698D266D"  name="vshnet_698D266D" />
         <Entry id="0x6B381909"  name="vshnet_6B381909" />
         <Entry id="0x6B38456B"  name="vshnet_6B38456B" />
-        <Entry id="0x6D9C1D5E"  name="vshnet_6D9C1D5E" />
         <Entry id="0x6DA2AC7B"  name="vshnet_6DA2AC7B" />
         <Entry id="0x6EEEB110"  name="vshnet_6EEEB110" />
         <Entry id="0x7089FFEE"  name="vshnet_7089FFEE" />
@@ -13290,7 +13293,6 @@
         <Entry id="0x8A74514F"  name="vshnet_8A74514F" />
         <Entry id="0x8C2EA0C4"  name="vshnet_8C2EA0C4" />
         <Entry id="0x8C9A7A82"  name="vshnet_8C9A7A82" />
-        <Entry id="0x8CD3490B"  name="vshnet_8CD3490B" />
         <Entry id="0x8DD616DC"  name="vshnet_8DD616DC" />
         <Entry id="0x8E268196"  name="vshnet_8E268196" />
         <Entry id="0x8E4C5479"  name="vshnet_8E4C5479" />
@@ -13315,7 +13317,6 @@
         <Entry id="0x9AC9686E"  name="vshnet_9AC9686E" />
         <Entry id="0x9D453CAB"  name="vshnet_9D453CAB" />
         <Entry id="0x9DC56631"  name="vshnet_9DC56631" />
-        <Entry id="0x9DDB30CE"  name="vshnet_9DDB30CE" />
         <Entry id="0x9E1FE092"  name="vshnet_9E1FE092" />
         <Entry id="0x9EF14F7C"  name="vshnet_9EF14F7C" />
         <Entry id="0x9FEF4A0B"  name="vshnet_9FEF4A0B" />
@@ -13346,7 +13347,6 @@
         <Entry id="0xB4FD3737"  name="vshnet_B4FD3737" />
         <Entry id="0xB5E257AF"  name="vshnet_B5E257AF" />
         <Entry id="0xB7F9023C"  name="vshnet_B7F9023C" />
-        <Entry id="0xB835A29C"  name="vshnet_B835A29C" />
         <Entry id="0xBABC50AD"  name="vshnet_BABC50AD" />
         <Entry id="0xBBADA16B"  name="vshnet_BBADA16B" />
         <Entry id="0xBD2FED0E"  name="vshnet_BD2FED0E" />
