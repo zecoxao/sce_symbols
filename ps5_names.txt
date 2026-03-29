@@ -131654,6 +131654,7 @@ sceFsCheckSingleUser
 sceFsCreateExfatPartition
 sceFsCreatePartitionTable
 sceFsCreatePfsSaveDataImage
+sceFsCreatePprPfsSaveDataImage
 sceFsCreatePfsTrophyDataImage
 sceFsCreatePprPfsTrophyDataImage
 sceFsDeviceAlignedPread

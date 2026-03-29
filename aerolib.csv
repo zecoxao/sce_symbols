@@ -150653,3 +150653,12 @@ h7QfYenHefE yperr_string
 4nWYdXm2qvk ypprot_err
 6K2lVD3Pgv8 ypresp_allfn
 mfXiBXMNzPE ypresp_data
+j917Pp4k-CI LoginMgrDisablePadKeyRemappingNative
+D-2SZbPFqzQ RnpsAppMgrWrapperGetPath
+tw7mDSn+8Ng RnpsGetProcessId
+QfxvUZ0N9zc RnpsGetProcessName
+4trWOkoejJ0 sceBgftNotifyExtUsbEjected 0x%08x
+5clvnn4f0Xk sceBgftNotifyExtUsbInserted 0x%08x
+jhJY8sEh1qw sceBgftServiceNotifyExtUsbEjected 0x%08x
+xeBOAVI3Gak sceBgftServiceNotifyExtUsbInserted 0x%08x
+koGUBftreVg sceFsCreatePprPfsSaveDataImage
