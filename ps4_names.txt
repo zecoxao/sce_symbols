@@ -84501,6 +84501,8 @@ sceImeOpenInternal
 sceImeParamInit
 sceImeSetCandidateIndex
 sceImeSetCaret
+sceImeSetEditEventWithRemotePlayEnabled
+sceImeSetGroupParagraphConversionEnabled
 sceImeSetText
 sceImeSetTextGeometry
 sceImeUpdate
