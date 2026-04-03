@@ -84184,6 +84184,7 @@ sceHttp2GetAutoRedirect
 sceHttp2GetCookie
 sceHttp2GetCookieBox
 sceHttp2GetCookieStats
+sceHttp2GetMaxConcurrentRequest
 sceHttp2GetMemoryPoolStats
 sceHttp2GetResponseContentLength
 sceHttp2GetStatusCode
@@ -84212,6 +84213,7 @@ sceHttp2SetRecvTimeOut
 sceHttp2SetRedirectCallback
 sceHttp2SetRequestContentLength
 sceHttp2SetRequestNoContentLength
+sceHttp2SetRequestServerName
 sceHttp2SetResolveRetry
 sceHttp2SetResolveTimeOut
 sceHttp2SetSendTimeOut
