@@ -86300,6 +86300,8 @@ sceNpDbgStrHex
 sceNpDeleteEventFlag
 sceNpDeleteRequest
 sceNpDeleteSema
+sceNpEAAccessInitialize
+sceNpEAAccessTerminate
 sceNpEntitlementAccessAbortRequest
 sceNpEntitlementAccessDeleteRequest
 sceNpEntitlementAccessGenerateTransactionId
