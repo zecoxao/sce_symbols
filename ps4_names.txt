@@ -86830,6 +86830,8 @@ sceNpNotifyPremiumFeature
 sceNpOpenEventFlag
 sceNpOpenSema
 sceNpPanic
+sceNpPartnerSubscriptionHasSubscription
+sceNpPartnerSubscriptionHasSubscriptionAbortRequest
 sceNpPartnerSubscriptionInitialize
 sceNpPartnerSubscriptionTerminate
 sceNpPartyCheckCallback
