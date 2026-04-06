@@ -86420,6 +86420,8 @@ sceNpGriefReportWriteReportItem
 sceNpGriefReportWriteReportItem2
 sceNpGriefReportWriteTemporaryFile
 sceNpGriefReportWriteTextChatFile
+sceNpHasEAAccessSubscription
+sceNpHasEAAccessSubscriptionAbortRequest
 sceNpHasSignedUp
 sceNpHeapDestroy
 sceNpHeapFreeImpl
