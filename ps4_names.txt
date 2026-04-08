@@ -84709,6 +84709,7 @@ sceKernelGetAllowedSdkVersionOnSystem
 sceKernelGetAppCategoryType
 sceKernelGetAppInfo
 sceKernelGetAppInfoByAppId
+sceKernelGetAppMemoryInfo
 sceKernelGetAppState
 sceKernelGetAslrStatus
 sceKernelGetAutoUpdateVersion
