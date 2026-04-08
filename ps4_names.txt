@@ -85574,6 +85574,10 @@ sceMbusTerm
 sceMbusUnregisterDriver
 sceMbusUserLogin
 sceMbusUserLogout
+sceMdbgFinalizeForShellCore
+sceMdbgInitForShellCore
+sceMdbgReceiveEvent
+sceMdbgSetResult
 sceMouseClose
 sceMouseConnectPort
 sceMouseDebugGetDeviceId
