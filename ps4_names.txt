@@ -73500,6 +73500,8 @@ _sceNpMemoryHeapShowMemoryStat
 _sceNpRealloc
 _sceNpReallocImpl
 _sceSdmaNop
+_sceUlobjmgrRegisterObject
+_sceUlobjmgrUnregisterObject
 _sceUltConditionVariableCreate
 _sceUltConditionVariableOptParamInitialize
 _sceUltMutexCreate
