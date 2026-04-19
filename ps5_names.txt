@@ -131117,9 +131117,7 @@ sceBgftGetTaskUserId
 sceBgftInit
 sceBgftNotifyEvent
 sceBgftNotifyExtUsbEjected
-sceBgftNotifyExtUsbEjected 0x%08x
 sceBgftNotifyExtUsbInserted
-sceBgftNotifyExtUsbInserted 0x%08x
 sceBgftNotifyGameDiscEjected
 sceBgftNotifyGameDiscInserted
 sceBgftNotifyGameDiscInserted2
@@ -131302,8 +131300,8 @@ sceBgftServiceIntUploadStopTaskAll
 sceBgftServiceIntUploadUnregisterTask
 sceBgftServiceIntUploadUnregisterTaskAll
 sceBgftServiceNotifyEvent
-sceBgftServiceNotifyExtUsbEjected 0x%08x
-sceBgftServiceNotifyExtUsbInserted 0x%08x
+sceBgftServiceNotifyExtUsbEjected
+sceBgftServiceNotifyExtUsbInserted
 sceBgftServiceNotifyGameDiscEjected
 sceBgftServiceNotifyGameDiscInserted
 sceBgftServiceNotifyGameDiscInserted2
@@ -141513,6 +141511,7 @@ scePlayGoGetLanguageMask
 scePlayGoGetLocus
 scePlayGoGetOptionalChunk
 scePlayGoGetProgress
+scePlayGoGetRequiredDisc
 scePlayGoGetSupportedOptionalChunk
 scePlayGoGetToDoList
 scePlayGoInitialize
@@ -141524,6 +141523,7 @@ scePlayGoRequestOptionalChunk
 scePlayGoServerInit
 scePlayGoServerTerm
 scePlayGoSetInstallSpeed
+scePlayGoSetInstallSpeed2
 scePlayGoSetLanguageMask
 scePlayGoSetToDoList
 scePlayGoSnapshot
