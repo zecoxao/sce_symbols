@@ -73500,6 +73500,8 @@ _sceNpMemoryHeapShowMemoryStat
 _sceNpRealloc
 _sceNpReallocImpl
 _sceSdmaNop
+_sceUlobjmgrRegisterObject
+_sceUlobjmgrUnregisterObject
 _sceUltConditionVariableCreate
 _sceUltConditionVariableOptParamInitialize
 _sceUltMutexCreate
@@ -84709,6 +84711,7 @@ sceKernelGetAllowedSdkVersionOnSystem
 sceKernelGetAppCategoryType
 sceKernelGetAppInfo
 sceKernelGetAppInfoByAppId
+sceKernelGetAppMemoryInfo
 sceKernelGetAppState
 sceKernelGetAslrStatus
 sceKernelGetAutoUpdateVersion
@@ -85573,6 +85576,10 @@ sceMbusTerm
 sceMbusUnregisterDriver
 sceMbusUserLogin
 sceMbusUserLogout
+sceMdbgFinalizeForShellCore
+sceMdbgInitForShellCore
+sceMdbgReceiveEvent
+sceMdbgSetResult
 sceMouseClose
 sceMouseConnectPort
 sceMouseDebugGetDeviceId
@@ -87602,6 +87609,8 @@ sceNpWebApi2GetMemoryPoolStats
 sceNpWebApi2Initialize
 sceNpWebApi2InitializeForPresence
 sceNpWebApi2IntCreateRequest
+sceNpWebApi2IntGlobalPush2Initialize
+sceNpWebApi2IntGlobalPush2Terminate
 sceNpWebApi2IntInitialize
 sceNpWebApi2IntInitialize2
 sceNpWebApi2IntPushEventCreateCtxIndFilter
