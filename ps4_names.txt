@@ -73500,6 +73500,8 @@ _sceNpMemoryHeapShowMemoryStat
 _sceNpRealloc
 _sceNpReallocImpl
 _sceSdmaNop
+_sceUlobjmgrRegisterObject
+_sceUlobjmgrUnregisterObject
 _sceUltConditionVariableCreate
 _sceUltConditionVariableOptParamInitialize
 _sceUltMutexCreate
@@ -84709,6 +84711,7 @@ sceKernelGetAllowedSdkVersionOnSystem
 sceKernelGetAppCategoryType
 sceKernelGetAppInfo
 sceKernelGetAppInfoByAppId
+sceKernelGetAppMemoryInfo
 sceKernelGetAppState
 sceKernelGetAslrStatus
 sceKernelGetAutoUpdateVersion
@@ -85573,6 +85576,10 @@ sceMbusTerm
 sceMbusUnregisterDriver
 sceMbusUserLogin
 sceMbusUserLogout
+sceMdbgFinalizeForShellCore
+sceMdbgInitForShellCore
+sceMdbgReceiveEvent
+sceMdbgSetResult
 sceMouseClose
 sceMouseConnectPort
 sceMouseDebugGetDeviceId
@@ -86300,6 +86307,8 @@ sceNpDbgStrHex
 sceNpDeleteEventFlag
 sceNpDeleteRequest
 sceNpDeleteSema
+sceNpEAAccessInitialize
+sceNpEAAccessTerminate
 sceNpEntitlementAccessAbortRequest
 sceNpEntitlementAccessDeleteRequest
 sceNpEntitlementAccessGenerateTransactionId
@@ -86418,6 +86427,8 @@ sceNpGriefReportWriteReportItem
 sceNpGriefReportWriteReportItem2
 sceNpGriefReportWriteTemporaryFile
 sceNpGriefReportWriteTextChatFile
+sceNpHasEAAccessSubscription
+sceNpHasEAAccessSubscriptionAbortRequest
 sceNpHasSignedUp
 sceNpHeapDestroy
 sceNpHeapFreeImpl
@@ -86826,6 +86837,10 @@ sceNpNotifyPremiumFeature
 sceNpOpenEventFlag
 sceNpOpenSema
 sceNpPanic
+sceNpPartnerSubscriptionHasSubscription
+sceNpPartnerSubscriptionHasSubscriptionAbortRequest
+sceNpPartnerSubscriptionInitialize
+sceNpPartnerSubscriptionTerminate
 sceNpPartyCheckCallback
 sceNpPartyCreate
 sceNpPartyCreateA
@@ -87441,6 +87456,10 @@ sceNpTusTryAndSetVariableForCrossSaveVUserAsync
 sceNpTusTryAndSetVariableVUser
 sceNpTusTryAndSetVariableVUserAsync
 sceNpTusWaitAsync
+sceNpUbisoftPlusHasSubscription
+sceNpUbisoftPlusHasSubscriptionAbortRequest
+sceNpUbisoftPlusInitialize
+sceNpUbisoftPlusTerminate
 sceNpUInt32ToStr
 sceNpUInt64ToStr
 sceNpUniversalDataSystemAbortHandle
@@ -87602,6 +87621,8 @@ sceNpWebApi2GetMemoryPoolStats
 sceNpWebApi2Initialize
 sceNpWebApi2InitializeForPresence
 sceNpWebApi2IntCreateRequest
+sceNpWebApi2IntGlobalPush2Initialize
+sceNpWebApi2IntGlobalPush2Terminate
 sceNpWebApi2IntInitialize
 sceNpWebApi2IntInitialize2
 sceNpWebApi2IntPushEventCreateCtxIndFilter
