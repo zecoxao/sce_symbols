@@ -157750,3 +157750,4 @@ sceAgcDcbContextStateOp_0100
 sceNpEAAccessInitialize
 sceNpEAAccessTerminate
 sceAgcDcbAtomicGds_0900
+sceAudioInIsPadEmbeddedMic
