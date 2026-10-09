@@ -159053,3 +159053,6 @@ zARR5aCmkoY sceAgcDcbAtomicGds_0900
 7CxI50-xlCk sceNpEAAccessInitialize
 pMxXhNozUX8 sceNpEAAccessTerminate
 X+4jdIS75P0 sceAudioInIsPadEmbeddedMic
+LibwuIonIBw sceVideoOutAddVrrActiveStatusEvent
+kP2L8t3j-aM sceVideoOutAddVrrStatusFlagsPrivilege
+-q-vbO859Tw sceVideoOutDeleteVrrActiveStatusEvent

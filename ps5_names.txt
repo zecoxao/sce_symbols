@@ -157751,3 +157751,6 @@ sceNpEAAccessInitialize
 sceNpEAAccessTerminate
 sceAgcDcbAtomicGds_0900
 sceAudioInIsPadEmbeddedMic
+sceVideoOutAddVrrActiveStatusEvent
+sceVideoOutAddVrrStatusFlagsPrivilege
+sceVideoOutDeleteVrrActiveStatusEvent
