@@ -159040,3 +159040,12 @@ FxZiTbh-NF8 updatePostProcInfo
 O1bbepDkvus ures_getValueWithFallback
 myB8+7u2Lz0 useDCQuantizer
 BzDUQ+gJ6pE useLPQuantizer
+HV4j+E0MBHE sceAgcCreateInterpolantMapping_0100
+qj7QZpgr9Uw sceAgcDcbContextStateOp_0100
+-KRzWekV120 sceAgcDcbSetIndexSize_0600
+fd5Bp5tGTgo sceAgcFuseShaderHalves_0200
+V++UgBtQhn0 sceAgcGetDataPacketPayloadAddress_0090
+dolOmWH+huQ sceAgcGetFusedShaderSize_0080
+23LRUSvYu1M sceAgcInit_0090
+Ikfdt-rIqCE sceAgcJumpPatchSetTarget_0300
+Jrs7UUkGOFo sceCoredumpGetStopInfoGpu_Agc
