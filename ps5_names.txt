@@ -157747,3 +157747,6 @@ sceAgcGetDataPacketPayloadAddress_0090
 sceAgcGetFusedShaderSize_0080
 sceAgcFuseShaderHalves_0200
 sceAgcDcbContextStateOp_0100
+sceNpEAAccessInitialize
+sceNpEAAccessTerminate
+sceAgcDcbAtomicGds_0900

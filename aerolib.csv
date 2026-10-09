@@ -159049,3 +159049,6 @@ dolOmWH+huQ sceAgcGetFusedShaderSize_0080
 23LRUSvYu1M sceAgcInit_0090
 Ikfdt-rIqCE sceAgcJumpPatchSetTarget_0300
 Jrs7UUkGOFo sceCoredumpGetStopInfoGpu_Agc
+zARR5aCmkoY sceAgcDcbAtomicGds_0900
+7CxI50-xlCk sceNpEAAccessInitialize
+pMxXhNozUX8 sceNpEAAccessTerminate
