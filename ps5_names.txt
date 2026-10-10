@@ -157897,3 +157897,4 @@ scePadVirtualDeviceInsertTriggerState
 sceNetCtlApCpGetConnectInfo
 sceAudioPropagationSourceQueryAudioPaths
 scePadAstonGetDeviceInformation
+sceNpGetSandboxInfo
